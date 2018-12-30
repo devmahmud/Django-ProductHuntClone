@@ -11,8 +11,8 @@ Django product hunt clone is a project where member can add product and can give
 <pre>open terminal and type</pre>
 <code>git clone https://github.com/devmahmud/Django-ProductHuntClone.git</code><br><br>
 
+<h4>or simply download using the url below</h4>
 <code>https://github.com/devmahmud/Django-ProductHuntClone.git</code><br>
-<h4>or simply download using the url above</h4>
  
 <h2>Database Migrations</h2>
 <p>In this project i have used Postgresql Database.
